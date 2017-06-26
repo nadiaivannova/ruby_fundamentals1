@@ -18,4 +18,4 @@ puts "The product of 45628 and 7839 is #{45628 * 7839}"
 
 puts (10 < 20 && 30 < 20) || !(10 == 11)
 #true
-#10 is less then 20 and 30 is less then 20 - true or the inverse of 10 = 11 - false because it can be either it's true 
+#10 is less then 20 and 30 is less then 20 - true or the inverse of 10 = 11 - false because it can be either it's true
